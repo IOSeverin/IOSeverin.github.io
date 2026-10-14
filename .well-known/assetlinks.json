@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "bg.government.my.his.android",
+      "sha256_cert_fingerprints": [
+        "40:47:95:E0:49:D4:EB:3D:F2:D4:A5:11:52:42:41:AF:2A:47:00:7B:78:48:47:CA:4C:F3:23:B5:DE:3A:3B:FD"
+      ]
+    }
+  }
+]
