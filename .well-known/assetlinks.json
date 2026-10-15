@@ -8,7 +8,8 @@
       "namespace": "android_app",
       "package_name": "bg.government.my.his.android",
       "sha256_cert_fingerprints": [
-        "40:47:95:E0:49:D4:EB:3D:F2:D4:A5:11:52:42:41:AF:2A:47:00:7B:78:48:47:CA:4C:F3:23:B5:DE:3A:3B:FD"
+        "40:47:95:E0:49:D4:EB:3D:F2:D4:A5:11:52:42:41:AF:2A:47:00:7B:78:48:47:CA:4C:F3:23:B5:DE:3A:3B:FD",
+        "35:AA:08:5D:E6:A2:F5:D1:3A:AE:40:E6:05:B6:7C:0D:B9:0C:C3:6C:5D:FA:6D:75:47:27:68:70:58:09:D5:4F"
       ]
     }
   }
